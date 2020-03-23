@@ -1,4 +1,7 @@
+# 账号密码按照用户名，账号，密码的格式存入CSV文件
 # 易班自动操作 从账号csv文件中导入账号密码，自动切换到登录，手动选择操作，可自动发布投票，自动发布话题，自动投票
+
+
 import time
 import datetime
 from random import randint
